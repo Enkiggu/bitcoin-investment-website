@@ -1,2 +1,2 @@
 # bitcoin-investment-template
-Basic bitcoin investment website.
+Basic bitcoin investment website to improve myself.
